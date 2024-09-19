@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/ManimCE/Voiceover/Demo/media/videos/demo1/720p30/partial_movie_files/GTTSExampleVietnamese/274514146_1167706998_223132457.mp4'
+file 'file:D:/ManimCE/Voiceover/Demo/media/videos/demo1/720p30/partial_movie_files/GTTSExampleVietnamese/2789044632_3843202249_3247135320.mp4'
+file 'file:D:/ManimCE/Voiceover/Demo/media/videos/demo1/720p30/partial_movie_files/GTTSExampleVietnamese/2789044632_4214106280_3247135320.mp4'
+file 'file:D:/ManimCE/Voiceover/Demo/media/videos/demo1/720p30/partial_movie_files/GTTSExampleVietnamese/2789044632_2338627704_3247135320.mp4'
+file 'file:D:/ManimCE/Voiceover/Demo/media/videos/demo1/720p30/partial_movie_files/GTTSExampleVietnamese/2789044632_332024869_631829896.mp4'
+file 'file:D:/ManimCE/Voiceover/Demo/media/videos/demo1/720p30/partial_movie_files/GTTSExampleVietnamese/2789044632_329969645_3547520947.mp4'

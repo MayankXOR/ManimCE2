@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/ManimCE/experiments/media/videos/uz_fourier/720p30/partial_movie_files/FourierCirclesScene/2016333726_3188797820_677155451.mp4'
+file 'file:D:/ManimCE/experiments/media/videos/uz_fourier/720p30/partial_movie_files/FourierCirclesScene/543634251_1141282389_3845438432.mp4'
+file 'file:D:/ManimCE/experiments/media/videos/uz_fourier/720p30/partial_movie_files/FourierCirclesScene/543634251_1704852926_1268996917.mp4'
+file 'file:D:/ManimCE/experiments/media/videos/uz_fourier/720p30/partial_movie_files/FourierCirclesScene/543634251_2137346659_1187431860.mp4'
+file 'file:D:/ManimCE/experiments/media/videos/uz_fourier/720p30/partial_movie_files/FourierCirclesScene/543634251_1141282389_2302122527.mp4'

@@ -1,0 +1,41 @@
+{
+  "slides": [
+    {
+      "type": "slide",
+      "start_animation": 0,
+      "end_animation": 2,
+      "number": 1,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 2,
+      "end_animation": 4,
+      "number": 2,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 4,
+      "end_animation": 6,
+      "number": 3,
+      "terminated": false
+    },
+    {
+      "type": "last",
+      "start_animation": 6,
+      "end_animation": 7,
+      "number": 4,
+      "terminated": false
+    }
+  ],
+  "files": [
+    "slides\\files\\Example\\uncached_00000.mp4",
+    "slides\\files\\Example\\uncached_00001.mp4",
+    "slides\\files\\Example\\uncached_00002.mp4",
+    "slides\\files\\Example\\uncached_00003.mp4",
+    "slides\\files\\Example\\uncached_00004.mp4",
+    "slides\\files\\Example\\uncached_00005.mp4",
+    "slides\\files\\Example\\uncached_00006.mp4"
+  ]
+}

@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/ManimCE/Projects/circle_theorems/thales_theorem/media/videos/tests/720p30/partial_movie_files/test/274514146_4165794298_223132457.mp4'
+file 'file:D:/ManimCE/Projects/circle_theorems/thales_theorem/media/videos/tests/720p30/partial_movie_files/test/2789044632_3689908277_3447582611.mp4'
+file 'file:D:/ManimCE/Projects/circle_theorems/thales_theorem/media/videos/tests/720p30/partial_movie_files/test/2789044632_3315967912_3765683184.mp4'

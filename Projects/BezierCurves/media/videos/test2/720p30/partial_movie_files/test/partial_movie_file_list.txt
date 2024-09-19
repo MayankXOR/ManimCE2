@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/ManimCE/Projects/BezierCurves/media/videos/test2/720p30/partial_movie_files/test/274514146_3315967912_2001875945.mp4'
+file 'file:D:/ManimCE/Projects/BezierCurves/media/videos/test2/720p30/partial_movie_files/test/2789044632_2836254635_4159282740.mp4'
+file 'file:D:/ManimCE/Projects/BezierCurves/media/videos/test2/720p30/partial_movie_files/test/2789044632_1119518727_1080595887.mp4'
+file 'file:D:/ManimCE/Projects/BezierCurves/media/videos/test2/720p30/partial_movie_files/test/2789044632_319972765_2214407425.mp4'
+file 'file:D:/ManimCE/Projects/BezierCurves/media/videos/test2/720p30/partial_movie_files/test/2789044632_3315967912_1684384708.mp4'

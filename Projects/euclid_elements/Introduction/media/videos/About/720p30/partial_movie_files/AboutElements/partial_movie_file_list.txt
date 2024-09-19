@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Dell/ManimCE/Animations/euclid_elements/Introduction/media/videos/About/720p30/partial_movie_files/AboutElements/274514146_967740066_223132457.mp4'
+file 'file:C:/Users/Dell/ManimCE/Animations/euclid_elements/Introduction/media/videos/About/720p30/partial_movie_files/AboutElements/2789044632_138454707_3276875234.mp4'
+file 'file:C:/Users/Dell/ManimCE/Animations/euclid_elements/Introduction/media/videos/About/720p30/partial_movie_files/AboutElements/2789044632_2903651292_889611347.mp4'
+file 'file:C:/Users/Dell/ManimCE/Animations/euclid_elements/Introduction/media/videos/About/720p30/partial_movie_files/AboutElements/2789044632_1067725306_3122509290.mp4'
+file 'file:C:/Users/Dell/ManimCE/Animations/euclid_elements/Introduction/media/videos/About/720p30/partial_movie_files/AboutElements/2789044632_3074730749_396258578.mp4'
+file 'file:C:/Users/Dell/ManimCE/Animations/euclid_elements/Introduction/media/videos/About/720p30/partial_movie_files/AboutElements/2789044632_4217685870_2056797799.mp4'
+file 'file:C:/Users/Dell/ManimCE/Animations/euclid_elements/Introduction/media/videos/About/720p30/partial_movie_files/AboutElements/2789044632_1917814765_2598344426.mp4'

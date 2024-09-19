@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/ManimCE/Projects/SHM/CameraAngle/media/videos/camera/720p30/partial_movie_files/TracedPathExample/2961789516_653165941_707262097.mp4'
