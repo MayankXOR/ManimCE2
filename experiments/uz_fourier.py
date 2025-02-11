@@ -1,4 +1,4 @@
-﻿#Mayankk
+#Mayankk
 #March18th2023
 #Saturday
 
@@ -46,11 +46,11 @@ class FourierCirclesScene(Scene):
 
     def get_paths(self):
         tex_mob = MathTex(r"\boxed{\sum_{n=1}^{\infty}{\frac{1}{n^2}}=\frac{\pi^2}{6}}")
-        CAUTION: If you use some Text(like the letter "O") or PMobject that contains breaks and is not continuous, the path may not be much accurate
-        It's because the tex_mob is sliced letter by letter and it's not possible for me to break the 2 curves of "O" as it's very complex
-        due to this tendency, the vectors try to jump to both of the planes of mob(which is not possibe in 3-dimensional world) at the same time
-        resulting in superposition of the vector returning very jaggy approximation of the Beziers
-        However, I'll try to work and find an aliter to this method to increase the accuracy(atleast that's what I hope)"""
+        # CAUTION: If you use some Text(like the letter "O") or PMobject that contains breaks and is not continuous, the path may not be much accurate
+        # It's because the tex_mob is sliced letter by letter and it's not possible for me to break the 2 curves of "O" as it's very complex
+        # due to this tendency, the vectors try to jump to both of the planes of mob(which is not possibe in 3-dimensional world) at the same time
+        # resulting in superposition of the vector returning very jaggy approximation of the Beziers
+        # However, I'll try to work and find an aliter to this method to increase the accuracy(atleast that's what I hope)"""
         tex_mob.scale_to_fit_width(10)
         tex_mob.scale(1.4)
         paths = tex_mob.family_members_with_points()
